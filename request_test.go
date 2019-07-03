@@ -4,10 +4,10 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/ChrisTrenkamp/goxpath"
-	"github.com/ChrisTrenkamp/goxpath/tree"
-	"github.com/ChrisTrenkamp/goxpath/tree/xmltree"
-	"github.com/masterzen/winrm/soap"
+	"github.com/optanix/goxpath"
+	"github.com/optanix/goxpath/tree"
+	"github.com/optanix/goxpath/tree/xmltree"
+	"github.com/optanix/winrm/soap"
 	"github.com/masterzen/simplexml/dom"
 	. "gopkg.in/check.v1"
 )

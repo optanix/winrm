@@ -7,10 +7,10 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/ChrisTrenkamp/goxpath"
-	"github.com/ChrisTrenkamp/goxpath/tree"
-	"github.com/ChrisTrenkamp/goxpath/tree/xmltree"
-	"github.com/masterzen/winrm/soap"
+	"github.com/optanix/goxpath"
+	"github.com/optanix/goxpath/tree"
+	"github.com/optanix/goxpath/tree/xmltree"
+	"github.com/optanix/winrm/soap"
 )
 
 func first(node tree.Node, xpath string) (string, error) {

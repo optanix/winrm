@@ -1,7 +1,7 @@
 package soap
 
 import (
-	"github.com/ChrisTrenkamp/goxpath"
+	"github.com/optanix/goxpath"
 	"github.com/masterzen/simplexml/dom"
 )
 
