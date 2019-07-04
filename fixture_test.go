@@ -12,7 +12,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/ChrisTrenkamp/goxpath/tree/xmltree"
+	"github.com/optanix/goxpath/tree/xmltree"
 	. "gopkg.in/check.v1"
 )
 
